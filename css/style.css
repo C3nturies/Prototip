@@ -25,7 +25,7 @@ body{
   height: 450px;;
   padding:60px 0;
   text-align: center;
-  background-image: url("/images/banner/banner-home.jpeg");
+  background-image: url("../images/banner/banner-home.jpeg");
   background-position-x: right;
   background-repeat: no-repeat;
   color: white;
